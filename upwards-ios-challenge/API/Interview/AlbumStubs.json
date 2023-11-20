@@ -1,0 +1,265 @@
+{
+  "feed": {
+    "title": "Top Albums",
+    "id": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/10/albums.json",
+    "author": {
+      "name": "Apple",
+      "url": "https://www.apple.com/"
+    },
+    "links": [
+      {
+        "self": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/10/albums.json"
+      }
+    ],
+    "copyright": "Copyright © 2023 Apple Inc. All rights reserved.",
+    "country": "us",
+    "icon": "https://www.apple.com/favicon.ico",
+    "updated": "Wed, 1 Nov 2023 19:26:06 +0000",
+    "results": [
+      {
+        "artistName": "Taylor Swift",
+        "id": "1713845538",
+        "name": "1989 (Taylor's Version) [Deluxe]",
+        "releaseDate": "2023-10-27",
+        "kind": "albums",
+        "artistId": "159260351",
+        "artistUrl": "https://music.apple.com/us/artist/taylor-swift/159260351",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8e/35/6c/8e356cc2-0be4-b83b-d29e-b578623df2ac/23UM1IM34052.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/1989-taylors-version-deluxe/1713845538"
+      },
+      {
+        "artistName": "Drake",
+        "id": "1710685602",
+        "name": "For All The Dogs",
+        "releaseDate": "2023-10-06",
+        "kind": "albums",
+        "artistId": "271256",
+        "artistUrl": "https://music.apple.com/us/artist/drake/271256",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/21/50/ee/2150ee84-62c3-4190-7dfa-da30abd98ac8/23UM1IM09862.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/us/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/for-all-the-dogs/1710685602"
+      },
+      {
+        "artistName": "Brent Faiyaz",
+        "id": "1710673514",
+        "name": "Larger Than Life",
+        "releaseDate": "2023-10-27",
+        "kind": "albums",
+        "artistId": "960127446",
+        "artistUrl": "https://music.apple.com/us/artist/brent-faiyaz/960127446",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/83/2d/ac/832daca3-ce9d-d4ec-5015-b511404da89e/197985191554.png/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "15",
+            "name": "R&B/Soul",
+            "url": "https://itunes.apple.com/us/genre/id15"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/larger-than-life/1710673514"
+      },
+      {
+        "artistName": "Rod Wave",
+        "id": "1705141548",
+        "name": "Nostalgia",
+        "releaseDate": "2023-09-15",
+        "kind": "albums",
+        "artistId": "1140623439",
+        "artistUrl": "https://music.apple.com/us/artist/rod-wave/1140623439",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5b/a7/ea/5ba7eac4-dbbd-8ebf-7ec4-92ee97a442c3/196871436434.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/us/genre/id18"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/nostalgia/1705141548"
+      },
+      {
+        "artistName": "Bad Bunny",
+        "id": "1710982865",
+        "name": "nadie sabe lo que va a pasar mañana",
+        "releaseDate": "2023-10-13",
+        "kind": "albums",
+        "artistId": "1126808565",
+        "artistUrl": "https://music.apple.com/us/artist/bad-bunny/1126808565",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/13/21/22/132122a1-2ef2-381b-94b6-7b9449dcaa4a/197190137897.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "12",
+            "name": "Latin",
+            "url": "https://itunes.apple.com/us/genre/id12"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/nadie-sabe-lo-que-va-a-pasar-ma%C3%B1ana/1710982865"
+      },
+      {
+        "artistName": "YoungBoy Never Broke Again",
+        "id": "1713814104",
+        "name": "Decided 2",
+        "releaseDate": "2023-11-10",
+        "kind": "albums",
+        "artistId": "1168822104",
+        "artistUrl": "https://music.apple.com/us/artist/youngboy-never-broke-again/1168822104",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/60/9c/fb/609cfb91-2510-434f-54fd-e0bc3402c3f9/23UM1IM33447.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/us/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/decided-2/1713814104"
+      },
+      {
+        "artistName": "Mariah the Scientist",
+        "id": "1711291488",
+        "name": "To Be Eaten Alive",
+        "releaseDate": "2023-10-27",
+        "kind": "albums",
+        "artistId": "1475275447",
+        "artistUrl": "https://music.apple.com/us/artist/mariah-the-scientist/1475275447",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d2/d1/4d/d2d14d78-56eb-9f6a-ad01-509a80f4b8c1/196871484305.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "15",
+            "name": "R&B/Soul",
+            "url": "https://itunes.apple.com/us/genre/id15"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/to-be-eaten-alive/1711291488"
+      },
+      {
+        "artistName": "Zach Bryan",
+        "id": "1703216858",
+        "name": "Zach Bryan",
+        "releaseDate": "2023-08-25",
+        "kind": "albums",
+        "artistId": "1436413980",
+        "artistUrl": "https://music.apple.com/us/artist/zach-bryan/1436413980",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ce/36/7f/ce367f3d-2a4f-46ee-1434-e3fbb52f1fc8/093624849797.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "6",
+            "name": "Country",
+            "url": "https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/zach-bryan/1703216858"
+      },
+      {
+        "artistName": "Money Man",
+        "id": "1713426114",
+        "name": "CROPTOBER",
+        "releaseDate": "2023-10-27",
+        "kind": "albums",
+        "artistId": "302836005",
+        "artistUrl": "https://music.apple.com/us/artist/money-man/302836005",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/b8/0e/40b80ef8-91f1-9f24-d51a-65671441df5d/197342392792_cover.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/us/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/croptober/1713426114"
+      },
+      {
+        "artistName": "Hunxho",
+        "id": "1710357803",
+        "name": "For Her",
+        "releaseDate": "2023-10-13",
+        "kind": "albums",
+        "artistId": "1266800437",
+        "artistUrl": "https://music.apple.com/us/artist/hunxho/1266800437",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a2/12/c4/a212c440-2579-adb5-f953-2b7cbd538f1a/075679667564.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/us/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/for-her/1710357803"
+      }
+    ]
+  }
+}
